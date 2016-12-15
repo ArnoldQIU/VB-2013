@@ -1,0 +1,10 @@
+H:\上課專用\應用程式語言\chapter9\practice\practice\bin\Debug\practice.exe.config
+H:\上課專用\應用程式語言\chapter9\practice\practice\bin\Debug\practice.exe
+H:\上課專用\應用程式語言\chapter9\practice\practice\bin\Debug\practice.pdb
+H:\上課專用\應用程式語言\chapter9\practice\practice\bin\Debug\practice.xml
+H:\上課專用\應用程式語言\chapter9\practice\practice\obj\Debug\practice.vbprojResolveAssemblyReference.cache
+H:\上課專用\應用程式語言\chapter9\practice\practice\obj\Debug\practice.Resources.resources
+H:\上課專用\應用程式語言\chapter9\practice\practice\obj\Debug\practice.vbproj.GenerateResource.Cache
+H:\上課專用\應用程式語言\chapter9\practice\practice\obj\Debug\practice.exe
+H:\上課專用\應用程式語言\chapter9\practice\practice\obj\Debug\practice.xml
+H:\上課專用\應用程式語言\chapter9\practice\practice\obj\Debug\practice.pdb

@@ -1,0 +1,11 @@
+H:\上課專用\應用程式語言\chapter15-2\chapter15-2\bin\Debug\chapter15-2.exe.config
+H:\上課專用\應用程式語言\chapter15-2\chapter15-2\bin\Debug\chapter15-2.exe
+H:\上課專用\應用程式語言\chapter15-2\chapter15-2\bin\Debug\chapter15-2.pdb
+H:\上課專用\應用程式語言\chapter15-2\chapter15-2\bin\Debug\chapter15-2.xml
+H:\上課專用\應用程式語言\chapter15-2\chapter15-2\obj\Debug\chapter15-2.vbprojResolveAssemblyReference.cache
+H:\上課專用\應用程式語言\chapter15-2\chapter15-2\obj\Debug\chapter15_2.Form1.resources
+H:\上課專用\應用程式語言\chapter15-2\chapter15-2\obj\Debug\chapter15_2.Resources.resources
+H:\上課專用\應用程式語言\chapter15-2\chapter15-2\obj\Debug\chapter15-2.vbproj.GenerateResource.Cache
+H:\上課專用\應用程式語言\chapter15-2\chapter15-2\obj\Debug\chapter15-2.exe
+H:\上課專用\應用程式語言\chapter15-2\chapter15-2\obj\Debug\chapter15-2.xml
+H:\上課專用\應用程式語言\chapter15-2\chapter15-2\obj\Debug\chapter15-2.pdb

@@ -1,0 +1,10 @@
+H:\上課專用\應用程式語言\樂透\樂透\bin\Debug\樂透.exe.config
+H:\上課專用\應用程式語言\樂透\樂透\bin\Debug\樂透.exe
+H:\上課專用\應用程式語言\樂透\樂透\bin\Debug\樂透.pdb
+H:\上課專用\應用程式語言\樂透\樂透\bin\Debug\樂透.xml
+H:\上課專用\應用程式語言\樂透\樂透\obj\Debug\樂透.vbprojResolveAssemblyReference.cache
+H:\上課專用\應用程式語言\樂透\樂透\obj\Debug\樂透.Resources.resources
+H:\上課專用\應用程式語言\樂透\樂透\obj\Debug\樂透.vbproj.GenerateResource.Cache
+H:\上課專用\應用程式語言\樂透\樂透\obj\Debug\樂透.exe
+H:\上課專用\應用程式語言\樂透\樂透\obj\Debug\樂透.xml
+H:\上課專用\應用程式語言\樂透\樂透\obj\Debug\樂透.pdb

@@ -1,0 +1,10 @@
+H:\上課專用\應用程式語言\Chapter6\Chapter6\bin\Debug\Chapter6.exe.config
+H:\上課專用\應用程式語言\Chapter6\Chapter6\obj\Debug\Chapter6.vbprojResolveAssemblyReference.cache
+H:\上課專用\應用程式語言\Chapter6\Chapter6\obj\Debug\Chapter6.Resources.resources
+H:\上課專用\應用程式語言\Chapter6\Chapter6\obj\Debug\Chapter6.vbproj.GenerateResource.Cache
+H:\上課專用\應用程式語言\Chapter6\Chapter6\bin\Debug\Chapter6.exe
+H:\上課專用\應用程式語言\Chapter6\Chapter6\bin\Debug\Chapter6.pdb
+H:\上課專用\應用程式語言\Chapter6\Chapter6\bin\Debug\Chapter6.xml
+H:\上課專用\應用程式語言\Chapter6\Chapter6\obj\Debug\Chapter6.exe
+H:\上課專用\應用程式語言\Chapter6\Chapter6\obj\Debug\Chapter6.xml
+H:\上課專用\應用程式語言\Chapter6\Chapter6\obj\Debug\Chapter6.pdb

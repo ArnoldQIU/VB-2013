@@ -1,0 +1,11 @@
+H:\上課專用\應用程式語言\chapter5\chapter5\bin\Debug\chapter5.exe.config
+H:\上課專用\應用程式語言\chapter5\chapter5\bin\Debug\chapter5.exe
+H:\上課專用\應用程式語言\chapter5\chapter5\bin\Debug\chapter5.pdb
+H:\上課專用\應用程式語言\chapter5\chapter5\bin\Debug\chapter5.xml
+H:\上課專用\應用程式語言\chapter5\chapter5\obj\Debug\chapter5.vbprojResolveAssemblyReference.cache
+H:\上課專用\應用程式語言\chapter5\chapter5\obj\Debug\chapter5.Form1.resources
+H:\上課專用\應用程式語言\chapter5\chapter5\obj\Debug\chapter5.Resources.resources
+H:\上課專用\應用程式語言\chapter5\chapter5\obj\Debug\chapter5.vbproj.GenerateResource.Cache
+H:\上課專用\應用程式語言\chapter5\chapter5\obj\Debug\chapter5.exe
+H:\上課專用\應用程式語言\chapter5\chapter5\obj\Debug\chapter5.xml
+H:\上課專用\應用程式語言\chapter5\chapter5\obj\Debug\chapter5.pdb

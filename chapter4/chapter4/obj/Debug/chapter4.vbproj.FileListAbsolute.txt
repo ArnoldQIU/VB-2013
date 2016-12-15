@@ -1,0 +1,10 @@
+H:\上課專用\應用程式語言\chapter4\chapter4\bin\Debug\chapter4.exe.config
+H:\上課專用\應用程式語言\chapter4\chapter4\bin\Debug\chapter4.exe
+H:\上課專用\應用程式語言\chapter4\chapter4\bin\Debug\chapter4.pdb
+H:\上課專用\應用程式語言\chapter4\chapter4\bin\Debug\chapter4.xml
+H:\上課專用\應用程式語言\chapter4\chapter4\obj\Debug\chapter4.vbprojResolveAssemblyReference.cache
+H:\上課專用\應用程式語言\chapter4\chapter4\obj\Debug\chapter4.Resources.resources
+H:\上課專用\應用程式語言\chapter4\chapter4\obj\Debug\chapter4.vbproj.GenerateResource.Cache
+H:\上課專用\應用程式語言\chapter4\chapter4\obj\Debug\chapter4.exe
+H:\上課專用\應用程式語言\chapter4\chapter4\obj\Debug\chapter4.xml
+H:\上課專用\應用程式語言\chapter4\chapter4\obj\Debug\chapter4.pdb

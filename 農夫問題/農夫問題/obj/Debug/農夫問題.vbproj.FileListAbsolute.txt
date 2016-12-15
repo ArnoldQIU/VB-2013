@@ -1,0 +1,4 @@
+H:\上課專用\應用程式語言\農夫問題\農夫問題\bin\Debug\農夫問題.exe.config
+H:\上課專用\應用程式語言\農夫問題\農夫問題\obj\Debug\農夫問題.練習_農夫過河.Form1.resources
+H:\上課專用\應用程式語言\農夫問題\農夫問題\obj\Debug\農夫問題.Resources.resources
+H:\上課專用\應用程式語言\農夫問題\農夫問題\obj\Debug\農夫問題.vbproj.GenerateResource.Cache
